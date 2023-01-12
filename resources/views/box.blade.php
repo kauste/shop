@@ -4,7 +4,7 @@
         <form class="delete" action="" method="get">
             <div class="container">
                 <div class="row">
-                    <form method="get" action="{{route('clothes-list')}}">>
+                    <form method="get" action="{{route('clothes-list')}}">
                         <div class="col-3">
                             <div class="form-group">
                                 <label>What sort do you want?</label>

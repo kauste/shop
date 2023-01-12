@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
 
         foreach(range(1, 20) as $_){
             DB::table('shops')->insert([
-                'name'=>  $faker->firstName . 'shop',
+                'name'=>  $faker->firstName . ' shop',
                 'city'=> $faker->city,
                 'adress'=> $faker->streetAddress,
                 'starts'=> rand(8,12). ':00:00',
