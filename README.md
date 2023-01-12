@@ -5,7 +5,7 @@
 
 # Beauty salon 'Ruby'
 
-This is a Laravel project made for educational purposes only. The main purpose was to exercise CRUD skills on Laravel.
+This is a Laravel project made for educational purposes only. The main purpose was to exercise CRUD skills on Laravel before exam.
 
 ## Deepen my knowledge
 
